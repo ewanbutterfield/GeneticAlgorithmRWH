@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 
 import ExcelInterface
 
-algorithm_param = {'max_num_iteration': 20,\
-                   'population_size':5,\
+algorithm_param = {'max_num_iteration': 3000,\
+                   'population_size':100,\
                    'mutation_probability':0.1,\
                    'elit_ratio': 0.01,\
                    'crossover_probability': 0.5,\
